@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: 'Grill Sans', sans-serif;
+}
+h1 span{
+    background-color: tomato;
+    color: white;
+
+}
+.OuterContainer{
+    /* background-color: tomato; */
+    border-color:black;
+}
+.list {
+    list-style: none;
+    text-align: center;
+    color:white;
+}
+.list span{
+    font-weight: bold;
+}
+.PPL {
+    background-color: tomato;
+    margin-bottom:0.5rem;
+    border-color: black;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+.Image{
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-image: url(https://learndotresources.s3.amazonaws.com/workshop/5d82f73445ae900004652db3/three_stooges.jpg)
+}
+#Moe {
+    margin: 1rem 36rem;
+    background-position: top left;
+}
+#Larry {
+    margin: 1rem 36rem;
+    background-position: top right;
+
+}
+#Curly {
+    margin: 1rem 36rem;
+    background-position: center;
+}
